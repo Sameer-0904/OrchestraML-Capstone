@@ -120,6 +120,7 @@ Build a customer churn prediction model
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LLM-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
 </p>
+
 ---
 
 ## Recognition
@@ -157,3 +158,4 @@ Source code for proprietary orchestration is not included.
 ## Links
 
 Website: https://orchestra-ml.vercel.app
+Video Demo: https://youtu.be/7_e1PIC01X4
