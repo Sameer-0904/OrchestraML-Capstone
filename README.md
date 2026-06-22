@@ -119,15 +119,7 @@ Build a customer churn prediction model
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LLM-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Architecture-Multi-Agent%20System-6f42c1?style=for-the-badge" alt="Architecture" />
 </p>
-
-
-Frontend: Next.js
-Backend: Python
-LLM: Google Gemini
-Architecture: Custom Multi-Agent System
-
 ---
 
 ## Recognition
