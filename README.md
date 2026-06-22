@@ -105,3 +105,73 @@ Source code for proprietary orchestration is not included.
 ## Links
 
 Website: https://orchestra-ml.vercel.app
+
+
+## Screenshots
+
+### Landing Page
+
+Show the product entry experience and project positioning.
+
+![Landing](./screenshots/landing.png)
+
+---
+
+### Launchpad
+
+Natural language → ML pipeline execution.
+
+![Launchpad](./screenshots/launchpad.png)
+
+---
+
+### Pipeline Execution
+
+Multi-agent workflow with Human-in-the-Loop checkpoints.
+
+![Pipeline](./screenshots/live_pipeline.png)
+
+---
+
+### Final Report
+
+Execution summary, metrics, recommendations and artifacts.
+
+![Report](./screenshots/report.png)
+
+---
+
+## Architecture
+
+### System Architecture
+
+![System Architecture](./architecture/system_architecture.png)
+
+### Agent Flow
+
+![Agent Flow](./architecture/agent_flow.png)
+
+### Human-in-the-Loop Workflow
+
+![HITL Workflow](./architecture/hitl_flow.png)
+
+---
+
+## Demo
+
+Demo video will be available after YouTube verification.
+
+---
+
+## Repository Notice
+
+This repository is a public showcase for OrchestraML.
+
+Included:
+
+* Product overview
+* Screenshots
+* Architecture
+* Documentation
+
+Production implementation remains private while the platform continues development.
