@@ -75,7 +75,7 @@ Architecture: Custom Multi-Agent System
 🏆 Ranked **#24 Product of the Day** on Product Hunt
 
 Product Hunt:
-https://www.producthunt.com/products/orchestraml/launches/orchestraml?launch=agent-37-38
+https://www.producthunt.com/products/orchestraml/launches/orchestraml
 
 ---
 
