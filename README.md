@@ -138,6 +138,16 @@ Built while exploring concepts from the Google × Kaggle 5-Day AI Agents Course.
 
 ---
 
+## Demo Environment
+
+The public deployment is optimized for stable demonstration and controlled execution.
+
+Pipeline execution includes usage limits and resource management policies. If execution is interrupted, users can start a new pipeline or continue managing existing runs from the pipeline dashboard.
+
+For a complete end-to-end walkthrough, please refer to the demo video.
+
+---
+
 ## Runtime Note
 
 The current showcase deployment processes one pipeline execution at a time to maintain stable execution and consistent user experience in the demonstration environment.
