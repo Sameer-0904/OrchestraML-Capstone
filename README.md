@@ -78,6 +78,23 @@ Execution summary, metrics, recommendations and artifacts.
 
 ---
 
+## Guardrails & Controlled Execution
+
+OrchestraML includes pre-execution guardrails to ensure that pipeline execution only begins for valid machine learning objectives.
+
+Before orchestration starts, user requests pass through an input validation layer that classifies requests into:
+
+* Valid pipeline requests → execution allowed
+* Clarification required → request refinement
+* Greetings or empty requests → rejected
+* Out-of-scope requests → blocked
+
+Invalid requests do not trigger orchestration and do not consume execution limits.
+
+This controlled execution layer improves reliability, prevents unnecessary resource usage, and ensures that agent workflows remain aligned with user intent.
+
+---
+
 ## Architecture (concept)
 
 ```text
@@ -116,9 +133,11 @@ Build a customer churn prediction model
 <!-- Badges added for a more professional appearance while keeping the original stack text -->
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LLM-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
