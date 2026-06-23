@@ -138,6 +138,14 @@ Built while exploring concepts from the Google × Kaggle 5-Day AI Agents Course.
 
 ---
 
+## Runtime Note
+
+The current showcase deployment processes one pipeline execution at a time to maintain stable execution and consistent user experience in the demonstration environment.
+
+The underlying architecture is designed for future scalability and support for parallel execution through infrastructure upgrades.
+
+---
+
 ## Repository Notice
 
 This repository is a public showcase of OrchestraML.
