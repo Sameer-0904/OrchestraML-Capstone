@@ -192,6 +192,26 @@ Source code for proprietary orchestration is not included.
 
 ---
 
+## Roadmap
+
+OrchestraML is an actively evolving platform.
+
+The current version establishes the foundation for multi-agent machine learning workflows, Human-in-the-Loop execution, and controlled orchestration.
+
+Future development will focus on:
+
+* Advanced agent collaboration
+* Enhanced guardrails and reliability
+* Smarter orchestration and planning
+* Improved deployment automation
+* Better scalability and execution monitoring
+* Richer user experience and collaboration features
+
+The long-term vision is to make OrchestraML a production-ready AI platform for end-to-end machine learning automation.
+
+
+---
+
 ## Links
 
 Website: https://orchestra-ml.vercel.app
